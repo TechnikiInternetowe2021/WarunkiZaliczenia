@@ -2,7 +2,7 @@
 
 ## Aby uzyskać zaliczenie (więcej niż 2.0):
 1. Co najmniej 100% obecności (lub godne usprawiedliwienie za każdą nieobecność)
-2. Stworzenie projektów zaliczeniowego
+2. Oddać wszystkie projekty zaliczeniowe
 3. Co najmniej 50% z każdego kolokwium które się odbędzie
 
 
